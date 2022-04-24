@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"net.bitnine.agensgraph.ext.agtype"},{"l":"net.bitnine.agensgraph.ext.agtype.parser"}]
